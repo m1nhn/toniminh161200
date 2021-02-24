@@ -17,5 +17,6 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=toniminh161200">
 </a>
-[telegram]: toni_minh1612
+
+[telegram]: https://t.me/toniminh1612
 [fb]: https://www.facebook.com/toniminhh1612/
