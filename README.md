@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently studying in ITMO University, faculy : Information Security
+- 🔭 I’m currently studying in ITMO University, faculty : Information Security
 - 🇻🇳 I come from Viet Nam
 - 📫 How to reach me: [telegram], [fb]
 - 😄 Pronouns: Minh or Min
