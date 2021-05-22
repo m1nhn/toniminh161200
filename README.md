@@ -18,5 +18,5 @@
     <img src="https://komarev.com/ghpvc/?username=toniminh161200">
 </a>
 
-[telegram]: https://t.me/toniminh1612
+[telegram]: https://t.me/toni_minh1612
 [fb]: https://www.facebook.com/toniminhh1612/
