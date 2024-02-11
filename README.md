@@ -8,9 +8,9 @@
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently studying in ITMO University, faculty : Information Security
+- 🔭 M1nH, m1nH, m1Nh
 - 🇻🇳 I come from Viet Nam
-- 📫 How to reach me: [telegram], [fb]
+- 📫 How to reach me: [telegram]
 - 😄 Pronouns: Minh or Min
 - ⚡ Fun fact: Love and love and love
 
@@ -19,4 +19,3 @@
 </a>
 
 [telegram]: https://t.me/toni_minh1612
-[fb]: https://www.facebook.com/toniminhh1612/
